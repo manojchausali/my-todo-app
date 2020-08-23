@@ -1,0 +1,23 @@
+things learned
+function based components 
+parent/child components
+passing props
+mapping the list i.e looping
+class based components
+setting states constructor, binding 
+function of setState
+handling states through eventlisteners
+--examples 
+making card components passing props to it, import card data and mapping through it
+making a button and adding event listner to it that changes state
+life cycle methods like ComponentDidMount, componentUnmount etc
+using componentDidMount to make an api call
+forms 
+diff types of inputs like radio text checkbox select
+adding onChange on form inputs and using a single handleChnage function to handle different input types
+like text, checkbox et cetera
+
+made todo list where items can be added, deleted,
+same on click functio to for checkbox and remove
+using event from the input fields
+edit the todo task by making the todo field as input filed
